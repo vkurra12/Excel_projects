@@ -1,6 +1,6 @@
 # Sales Analysis 
 
-![Ferns and Petalls]([(https://github.com/vkurra12/Excel_projects/blob/main/Sales_Analysis/download.jpeg])
+![Ferns and Petalls]([https://github.com/vkurra12/Excel_projects/blob/main/Sales_Analysis/download.jpeg])
 
 # Problem Statement: Ferns and Petals Sales Analysis 
 You have been given a dataset from FNP (Ferns and Petals) that specializes in sending gifts for 
