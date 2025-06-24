@@ -1,6 +1,6 @@
 # Sales Analysis 
 
-![Ferns and Petalls]([https://github.com/vkurra12/Excel_projects/blob/main/Sales_Analysis/download.jpeg])
+![Ferns and Petalls](https://github.com/vkurra12/Excel_projects/blob/main/Sales_Analysis/download.jpeg)
 
 # Problem Statement: Ferns and Petals Sales Analysis 
 You have been given a dataset from FNP (Ferns and Petals) that specializes in sending gifts for 
@@ -32,4 +32,4 @@ its sales strategy and optimize customer satisfaction:
 # 10. Product Popularity by Occasion: 
  - Identify which products are most popular during specific occasions.
 
-- Download The: [Dashboard](https://github.com/Mahadevkempe/Excel_Project/blob/main/Sales_Analysis/Dashboard.png)
+- Download The: [Dashboard](https://github.com/vkurra12/Excel_projects/blob/main/Sales_Analysis/Dashboard.png)
